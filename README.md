@@ -3,5 +3,5 @@ Ejemplo de primer repositorio creado en GitHub.
 
 ---
 
-## Estructrua del proyecto:
+## Estructura del proyecto:
 (seguir escribiendo aquí)
